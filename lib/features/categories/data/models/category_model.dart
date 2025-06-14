@@ -5,6 +5,7 @@ part 'category_model.freezed.dart';
 part 'category_model.g.dart';
 
 @freezed
+@JsonSerializable()
 class CategoryModel with _$CategoryModel {
   const CategoryModel._();
 

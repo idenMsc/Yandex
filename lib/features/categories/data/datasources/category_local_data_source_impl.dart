@@ -1,4 +1,4 @@
-import 'package:shared_preferences.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../../domain/entities/category.dart';
 import 'category_local_data_source.dart';
 
