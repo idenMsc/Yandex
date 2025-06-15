@@ -42,7 +42,7 @@ class ExpensesScreen extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: const [
                 Text("Всего", style: TextStyle(fontWeight: FontWeight.bold)),
-                Text("Доходы"),
+                Text("аирывиариывриарвы"),
                 Text("Расходы"),
               ],
             ),
